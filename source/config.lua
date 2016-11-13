@@ -9,7 +9,7 @@ application =
 	{
 		width = 1080,
 		height = 1920, 
-		scale = "zoomStretch",
+		scale = "none",
 		fps = 60,
 		
 		--[[
